@@ -1,10 +1,10 @@
-## E-health Lab
+## eHealth Lab
 
-You can use the [editor on GitHub](https://github.com/inab-certh/ehealth-lab.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The E-health Lab  at the [Institute of Applied Biosciences (INAB / CERTH)](https://www.inab.certh.gr/el) is conducting research in the field of Medical Informatics and has gained significant funding via national and European research projects. To this end, drug safety and clinical support systems are two key research domains for the eHealth Lab.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+<!-- ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+``` -->
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
