@@ -1,9 +1,7 @@
-# theme: jekyll-theme-modernist
-
-remote_theme: chesterhow/tale
+theme: jekyll-theme-modernist
 
 paginate:     5
 
 plugins:
   - jekyll-paginate
-  - jekyll-remote-theme
+ 
