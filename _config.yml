@@ -1,4 +1,5 @@
 theme: jekyll-theme-modernist
+remote-theme: granbom/jekyll-theme-bootstrap4-navbar-cdn
 
 paginate:     5
 
