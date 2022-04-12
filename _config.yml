@@ -2,7 +2,7 @@ title: eHealth Lab                        # Title in top navigation bar (navbar)
 description: The eHealth Lab website
 
 theme: jekyll-theme-modernist
-remote-theme: granbom/jekyll-theme-bootstrap4-navbar-cdn
+remote-theme:  peterdesmet/petridish@1.1
 
 paginate:     5
 
