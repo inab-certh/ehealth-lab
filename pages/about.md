@@ -1,3 +1,11 @@
+---
+title: About
+description: Where to find us
+background: /assets/img/banner_background_image.jpg
+permalink: /about/
+---
+
+
 ##Where find us
 Institute of Applied Biosciences
 
