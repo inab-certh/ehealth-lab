@@ -1,5 +1,6 @@
 title: eHealth Lab                        # Title in top navigation bar (navbar) and <head>
 description: The eHealth Lab website
+url: "https://ehealth-lab.github.io
 
 theme: jekyll-theme-modernist
 remote-theme:  peterdesmet/petridish@1.1
