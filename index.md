@@ -6,7 +6,7 @@
         Menu <i class="fa fa-bars"></i>
       </button>
   <div class="navbar-collapse collapse show" id="navbar-menu" style="">
-        <ul class="navbar-nav ml-auto">
+        <ul style="list-style-type: none;  margin: 0; padding: 0;" class="navbar-nav ml-auto">
             <li class="navbar-item">
               <a class="nav-link active" href="/">Home</a>
             </li>
