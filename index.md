@@ -1,49 +1,6 @@
 ## eHealth Lab
 
-<nav class ="navbar navbar-expand-lg navbar-light bg-light">
-  
-<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-menu" aria-expanded="true">
-        Menu <i class="fa fa-bars"></i>
-      </button>
-  <div class="navbar-collapse collapse show" id="navbar-menu" style="">
-        <ul style="list-style-type: none;  margin: 0; padding: 0;" class="navbar-nav ml-auto">
-            <li class="navbar-item">
-              <a class="nav-link active" href="/">Home</a>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">
-                The Group
-              </a>
-              <div class="dropdown-menu">
-                  <a class="dropdown-item" href="/team/">Team</a>
-              </div>
-            </li><li class="navbar-item">
-              <a class="nav-link" href="/publications/">Publications</a>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">
-                Research
-              </a>
-              <div class="dropdown-menu">
-                  <a class="dropdown-item" href="/activities/">Activities</a>
-                  <a class="dropdown-item" href="/projects/">Projects</a>
-                  <a class="dropdown-item" href="/collaborations/">Collaborations</a>
-                  <div class="dropdown-divider"></div>
-                  <h6 class="dropdown-header">External resources</h6>
-                  <a class="dropdown-item" href="https://github.com/inab-certh/ehealth-lab.github.io" target="_blank">Lab GitHub</a>
-              </div>
-            </li><li class="navbar-item">
-              <a class="nav-link" href="/software/">Software</a>
-            </li>
-            <li class="navbar-item">
-              <a class="nav-link" href="/blog/">News</a>
-            </li>
-            <li class="navbar-item">
-              <a class="nav-link" href="/about/">About</a>
-            </li>
-        </ul>
-      </div>
-</nav>
+
 
 The E-health Lab  at the [Institute of Applied Biosciences (INAB / CERTH)](https://www.inab.certh.gr/el) is conducting research in the field of Medical Informatics and has gained significant funding via national and European research projects. To this end, drug safety and clinical support systems are two key research domains for the eHealth Lab.
 
