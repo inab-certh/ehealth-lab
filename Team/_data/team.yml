@@ -1,0 +1,45 @@
+- name: Dr. Pantelis Natsiavas
+  role: Principal Investigator C' # Will appear next to name
+  image: https://pvclinical-project.eu/img/team/pnatsiavas.jpg # Can be external link
+  orcid: 0000-0002-4061-9815
+  email: pnatsiavas@certh.gr
+  github: pnatsiavas
+  twitter: pnatsiavas
+
+- name: Vlasios Dimitriadis
+  role: Research Assistant # Will appear next to name
+  image: https://pvclinical-project.eu/img/team/bdimitriadis.jpg # Can be external link
+  orcid: 0000-0003-2544-8728
+  email: blasisd@certh.gr
+  github: bdimitriadis
+
+- name: Christine Kakalou
+  role: PhD student # Will appear next to name
+  image: https://pvclinical-project.eu/img/team/ckakalou.jpeg # Can be external link
+  orcid: 0000-0001-9272-410X
+  email: ckakalou@certh.gr
+  github: ckakalou
+  twitter: ckakalou
+
+- name: Achilleas Chytas
+  role: PhD student # Will appear next to name
+  image: 	https://pvclinical-project.eu/img/team/achytas.png # Can be external link
+  orcid: 0000-0001-8486-011X
+  email: achytas@certh.gr
+  github: achillec
+  
+- name: Panos Bonotis
+  role: PhD student # Will appear next to name
+  image: 	https://mypal-project.eu/wp-content/uploads/panos-bonotis.jpg # Can be external link
+  orcid: 0000-0002-9317-547X
+  email: pbonotis@certh.gr
+  github: pbonotis15
+
+- name: Stella Dimitsaki
+  role: Research Assistant # Will appear next to name
+  image: 	https://pvclinical-project.eu/img/team/sdimitsaki.png # Can be external link
+  orcid: 0000-0002-6356-9531
+  email: sdimitsaki@certh.gr
+  github: Dimstella
+  twitter: st_dimitsaki
+
