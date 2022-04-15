@@ -49,3 +49,22 @@ $on-laptop:        800px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+// Team members
+
+.team-member {
+  margin-bottom: $grid-gutter-width;
+
+  & > img {
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    border: 3px solid $gray-200;
+  }
+
+  .orcid {
+    height: 16px;
+    width: 16px;
+    margin-top: -3px;
+  }
+}
