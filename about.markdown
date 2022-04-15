@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Where find us
+## Where to find us
 
 **Institute of Applied Biosciences**
 
