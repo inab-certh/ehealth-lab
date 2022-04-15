@@ -5,7 +5,7 @@ description: Template for team page
 
 {{ content }}
 
-{% for member in site.team.data.team %}
+{% for member in site.data.team %}
   <div class="media team-member">
     <img class="mr-3" src="{{ member.image | relative_url }}">
     <div class="media-body">
@@ -16,31 +16,31 @@ description: Template for team page
         {% endif %}
       </h5>
 
-      {{ member.description | markdownify }}
+      <!-- {{ member.description | markdownify }} -->
 
       <ul class="list-inline">
         {% if member.orcid %}
-        <li class="list-inline-item">
+        <!-- <li class="list-inline-item"> -->
           <a href="https://orcid.org/{{ member.orcid }}"><img class="orcid" src="{{ '/assets/theme/img/orcid.png' | relative_url }}"></a>
-        </li>
+        <!-- </li> -->
         {% endif %}
 
         {% if member.email %}
-        <li class="list-inline-item">
+        <!-- <li class="list-inline-item"> -->
           <a href="mailto:{{ member.email }}"><i class="fa fa-envelope"></i></a>
-        </li>
+        <!-- </li> -->
         {% endif %}
 
         {% if member.twitter %}
-        <li class="list-inline-item">
+        <!-- <li class="list-inline-item"> -->
           <a href="https://twitter.com/{{ member.twitter }}"><i class="fa fa-twitter"></i></a>
-        </li>
+        <!-- </li> -->
         {% endif %}
 
         {% if member.github %}
-        <li class="list-inline-item">
+        <!-- <li class="list-inline-item"> -->
           <a href="https://github.com/{{ member.github }}"><i class="fa fa-github"></i></a>
-        </li>
+        <!-- </li> -->
         {% endif %}
       </ul>
     </div>
@@ -60,31 +60,31 @@ description: Template for team page
         {% endif %} -->
       </h5>
 
-      {{ member.description | markdownify }}
+      <!-- {{ member.description | markdownify }} -->
 
       <ul class="list-inline">
         {% if member.orcid %}
-        <li class="list-inline-item">
+        <!-- <li class="list-inline-item"> -->
           <a href="https://orcid.org/{{ member.orcid }}"><img class="orcid" src="{{ '/assets/theme/img/orcid.png' | relative_url }}"></a>
-        </li>
+        <!-- </li> -->
         {% endif %}
 
         {% if member.email %}
-        <li class="list-inline-item">
+        <!-- <li class="list-inline-item"> -->
           <a href="mailto:{{ member.email }}"><i class="fa fa-envelope"></i></a>
-        </li>
+        <!-- </li> -->
         {% endif %}
 
         {% if member.twitter %}
-        <li class="list-inline-item">
+        <!-- <li class="list-inline-item"> -->
           <a href="https://twitter.com/{{ member.twitter }}"><i class="fa fa-twitter"></i></a>
-        </li>
+        <!-- </li> -->
         {% endif %}
 
         {% if member.github %}
-        <li class="list-inline-item">
+        <!-- <li class="list-inline-item"> -->
           <a href="https://github.com/{{ member.github }}"><i class="fa fa-github"></i></a>
-        </li>
+        <!-- </li> -->
         {% endif %}
       </ul>
     </div>
