@@ -6,6 +6,7 @@ description: Template for team page
 {{ content }}
 
 {% for member in site.data.team %}
+
   <div class="media team-member">
     <img class="mr-3" src="{{ member.image | relative_url }}">
     <div class="media-body">
@@ -16,8 +17,8 @@ description: Template for team page
         {% endif %}
       </h5>
 
-      <!-- {{ member.description | markdownify }} -->
-
+      
+      
       <!-- <ul class="list-inline"> -->
         {% if member.orcid %}
         <!-- <li class="list-inline-item"> -->
@@ -43,6 +44,10 @@ description: Template for team page
         <!-- </li> -->
         {% endif %}
       <!-- </ul> -->
+      <br/>
+      <p style="text-align: justify;">{{ member.description }}</p>
+        
+        
     </div>
   </div>
 {% endfor %}
@@ -51,7 +56,7 @@ description: Template for team page
 
 {% for member in site.data.past_members %}
   <div class="media team-member">
-    <!-- <img class="mr-3" src="{{ member.image | relative_url }}"> -->
+    <img class="mr-3" src="{{ member.image | relative_url }}">
     <div class="media-body">
       <h5 id="{{ member.name | strip | url_encode }}">
         {{ member.name }}

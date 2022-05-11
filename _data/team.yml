@@ -1,17 +1,31 @@
 - name: Dr. Pantelis Natsiavas
-  role: Principal Investigator C' # Will appear next to name
+  role: Researcher, Head of eHealth Lab # Will appear next to name
   image: https://pvclinical-project.eu/img/team/pnatsiavas.jpg # Can be external link
   orcid: 0000-0002-4061-9815
   email: pnatsiavas@certh.gr
   github: pnatsiavas
   twitter: pnatsiavas
+  description: Dr. Pantelis Natsiavas is an Engineer / Researcher (Grade C) at the Institute of Applied Biosciences of Centre for Research and Technology Hellas (INAB|CERTH), heading the eHealth Lab in Thessaloniki, Greece. He holds a PhD from Sorbonne University (Paris, France) and two MSc degrees and a Diploma of Electrical and Computer Engineering from the Aristotle University of Thessaloniki (AUTh). He has received a scholarship from the French Government and has been a visitor researcher for the LIMICS lab (Paris, France), while he has also worked as a Software Engineer with companies both located in Greece and abroad, providing services regarding software development and consulting for more than 10 years. Since 2013, he has been part of many European and national R&D projects on Medical Informatics, related with telemonitoring, health data security, drug safety and pharmacovigilance, focusing on the use of Knowledge Engineering approaches (e.g. the creation and use of ontological models and knowledge graphs). Currently, he is the Technical Coordinator of MyPal project (Horizon 2020 framework) and the “Hellenic registry of patients with chronic respiratory conditions and home mechanical ventilation support”, maintaining clinical data from 11 disparities across Greece. Finally, he is the Principal Investigator for the project PVClinical and the main contact for the EHDEN network’s National Node for Greece, on behalf of INAB|CERTH.
+
+- name: Dr Christina Karamanidou
+  role: Post-doctoral Researcher  # Will appear next to name
+  image: https://mypal-project.eu/wp-content/uploads/2019/02/christina-karamanidou.jpg # Can be external link
+  orcid: 0000-0002-2849-3690
+  email: ckaramanidou@certh.gr
+  description:
 
 - name: Vlasios Dimitriadis
-  role: Research Assistant # Will appear next to name
+  role: Lead developer # Will appear next to name
   image: https://pvclinical-project.eu/img/team/bdimitriadis.jpg # Can be external link
   orcid: 0000-0003-2544-8728
   email: blasisd@certh.gr
   github: bdimitriadis
+
+- name: Dimitris Kaboukos
+  role: Project manager # Will appear next to name
+  image: 	https://mypal-project.eu/wp-content/uploads/2020/04/dimitris-kaboukos.jpg # Can be external link
+  orcid: 0000-0003-4404-4462
+  email: kaboukosd@certh.gr
 
 - name: Christine Kakalou
   role: PhD student # Will appear next to name
@@ -22,7 +36,7 @@
   twitter: ckakalou
 
 - name: Achilleas Chytas
-  role: PhD student # Will appear next to name
+  role: Research Associate # Will appear next to name
   image: 	https://pvclinical-project.eu/img/team/achytas.png # Can be external link
   orcid: 0000-0001-8486-011X
   email: achytas@certh.gr
@@ -36,10 +50,11 @@
   github: pbonotis15
 
 - name: Stella Dimitsaki
-  role: Research Assistant # Will appear next to name
+  role: Research Associate # Will appear next to name
   image: 	https://pvclinical-project.eu/img/team/sdimitsaki.png # Can be external link
   orcid: 0000-0002-6356-9531
   email: sdimitsaki@certh.gr
   github: Dimstella
   twitter: st_dimitsaki
+  
 
