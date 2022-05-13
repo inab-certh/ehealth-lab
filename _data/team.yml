@@ -42,6 +42,7 @@
   orcid: 0000-0001-8486-011X
   email: achytas@certh.gr
   github: achillec
+  description: Achilleas Chytas s an Engineer / Research Associate at the Institute of Applied Biosciences of Centre for Research and Technology Hellas (INAB|CERTH) in Thessaloniki, Greece. He has received a Diploma of Electrical and Computer Engineering as well as a MSc degree in Medical Informatics, both from the Aristotle University of Thessaloniki (AUTh). Since 2014 as a member of LoMI (Laboratory of Medical Informatics, AUTh), he has been part of many European and national R&D projects on Medical Informatics, related with telemonitoring, biomedical big data analytics, drug safety and pharmacovigilance focusing on signal processing and Knowledge Engineering. He has been collaborating with INAB|CERTH as late as 2015 while since 2020 he has been a member of the eHealth Lab.
   
 - name: Panos Bonotis
   role: PhD student # Will appear next to name
@@ -49,6 +50,7 @@
   orcid: 0000-0002-9317-547X
   email: pbonotis@certh.gr
   github: pbonotis15
+  description: Panos Bonotis is an informatics and telecommunications engineer, currently working as a Research Associate at the eHealth Lab of the Institute of Applied Biosciences at the Centre for Research and Development Hellas, where he is involved in multiple EU and nationally funded projects. He is also in the 2nd year of his Ph.D., focusing on user experience in eHealth services. In that role, he is responsible for the usability studies of the projects (MyPal, PVClinical, Take-A-Breath) undertaken by the eHealth lab, among other things.
 
 - name: Stella Dimitsaki
   role: Research Associate # Will appear next to name
