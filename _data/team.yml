@@ -7,7 +7,7 @@
   twitter: pnatsiavas
   description: Dr. Pantelis Natsiavas is an Engineer / Researcher (Grade C) at the Institute of Applied Biosciences of Centre for Research and Technology Hellas (INAB|CERTH), heading the eHealth Lab in Thessaloniki, Greece. He holds a PhD from Sorbonne University (Paris, France) and two MSc degrees and a Diploma of Electrical and Computer Engineering from the Aristotle University of Thessaloniki (AUTh). He has received a scholarship from the French Government and has been a visitor researcher for the LIMICS lab (Paris, France), while he has also worked as a Software Engineer with companies both located in Greece and abroad, providing services regarding software development and consulting for more than 10 years. Since 2013, he has been part of many European and national R&D projects on Medical Informatics, related with telemonitoring, health data security, drug safety and pharmacovigilance, focusing on the use of Knowledge Engineering approaches (e.g. the creation and use of ontological models and knowledge graphs). Currently, he is the Technical Coordinator of MyPal project (Horizon 2020 framework) and the “Hellenic registry of patients with chronic respiratory conditions and home mechanical ventilation support”, maintaining clinical data from 11 disparities across Greece. Finally, he is the Principal Investigator for the project PVClinical and the main contact for the EHDEN network’s National Node for Greece, on behalf of INAB|CERTH.
 
-- name: Dr Christina Karamanidou
+- name: Dr. Christina Karamanidou
   role: Post-doctoral Researcher  # Will appear next to name
   image: https://mypal-project.eu/wp-content/uploads/2019/02/christina-karamanidou.jpg # Can be external link
   orcid: 0000-0002-2849-3690
@@ -42,7 +42,7 @@
   orcid: 0000-0001-8486-011X
   email: achytas@certh.gr
   github: achillec
-  description: Achilleas Chytas s an Engineer / Research Associate at the Institute of Applied Biosciences of Centre for Research and Technology Hellas (INAB|CERTH) in Thessaloniki, Greece. He has received a Diploma of Electrical and Computer Engineering as well as a MSc degree in Medical Informatics, both from the Aristotle University of Thessaloniki (AUTh). Since 2014 as a member of LoMI (Laboratory of Medical Informatics, AUTh), he has been part of many European and national R&D projects on Medical Informatics, related with telemonitoring, biomedical big data analytics, drug safety and pharmacovigilance focusing on signal processing and Knowledge Engineering. He has been collaborating with INAB|CERTH as late as 2015 while since 2020 he has been a member of the eHealth Lab.
+  description: Achilleas Chytas is an Engineer / Research Associate at the Institute of Applied Biosciences of Centre for Research and Technology Hellas (INAB|CERTH) in Thessaloniki, Greece. He has received a Diploma of Electrical and Computer Engineering as well as a MSc degree in Medical Informatics, both from the Aristotle University of Thessaloniki (AUTh). Since 2014 as a member of LoMI (Laboratory of Medical Informatics, AUTh), he has been part of many European and national R&D projects on Medical Informatics, related with telemonitoring, biomedical big data analytics, drug safety and pharmacovigilance focusing on signal processing and Knowledge Engineering. He has been collaborating with INAB|CERTH as late as 2015 while since 2020 he has been a member of the eHealth Lab.
   
 - name: Panos Bonotis
   role: PhD student # Will appear next to name
