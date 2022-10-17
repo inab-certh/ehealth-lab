@@ -1,0 +1,99 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: eHealth Lab
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  The eHealth Lab website
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ehealth-lab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+github_username:  inab-certh
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-scholar
+
+
+colors:
+  links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
+  banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
+  footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
+rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - LICENSE
+  - package-lock.json
+  - package.json
+  - petridish.gemspec
+
+exclude: [vendor] 
+
+scholar:
+  # style: assets/bibliography/ieee.csl
+  style: apa
+  locale: en
+
+  sort_by: none
+  order: descending
+  #group_by: year
+  bibliography_list_tag: ol
+  # bibliography_item_tag: div
+
+  source: _bibliography
+  bibliography: references.bib
+  # bibliography_template: "{{reference}}"
+  bibliography_template: bib
+
+  # use_raw_bibtex_entry: true
+
+  replace_strings: true
+  join_strings:    true
+
+  query: "@*"
+
+# FRONTMATTER DEFAULTS
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"                 # Only required for Petridish website, implied for sites using a theme

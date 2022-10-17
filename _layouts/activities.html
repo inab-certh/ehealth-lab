@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+
+
+  <h2>National Node of EHDEN project</h2>
+  <br/>
+  <img src="https://www.ohdsi-europe.org/images/images/Logo-header.jpg" alt="OHDSI" style="width:200px;"/>
+  <br/>
+  <br/>
+  <!-- <a href="https://www.prescit.com/" target="_blank" ><b>PrescIT (A clinical decision support platform for more efficient, safer, standardized and cost-effective online prescribing)</b></a> -->
+  <p>The Institute of Applied Biosciences, Centre for Research and Technology Hellas (INAB|CERTH) follows the activities of <a href="https://www.ohdsi.org/" target="_blank" >OHDSI</a> network and the <a href="https://www.ehden.eu/" target="_blank" >EHDEN</a> project for some years now and builds upon its outcomes both in terms of research and technical developments.</p>
+  <p>The main objectives as a National Node can be summarized as following: 
+    <ul>
+      <li>Increase the network of partners in Greece</li>
+      <li>Participate in OHDSI related research</li>
+    </ul>
+  </p>
+
+<br/>
+
+
+  <!-- {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      {%- if post.category == "Projects" -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endif -%}
+      {%- endfor -%}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%} -->
+
+</div>

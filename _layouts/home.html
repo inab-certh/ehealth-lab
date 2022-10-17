@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <!-- <h1 class="page-heading">{{ page.title }}</h1> -->
+    <h1 class="page-heading">eHealth Lab</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  <p style="text-align: justify;">
+    The eHealth Lab at the <a href="https://www.inab.certh.gr" target="_blank" >Institute of Applied Biosciences (INAB / CERTH)</a> is conducting research in the field of Medical Informatics and has gained significant funding via national and European research projects. To this end, drug safety and clinical support systems are two key research domains for the eHealth Lab.</p>  
+    
+    <img class="fit-picture"
+     src="assets/img/ehealthIMG.jpg"
+     alt="eHealth">
+
+    <!-- {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%} -->
+
+</div>

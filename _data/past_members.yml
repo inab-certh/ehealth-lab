@@ -1,0 +1,13 @@
+- name: Dr. Vassilis Koutkias
+  # role: Pharmacologist, Research assistant INAB|CERTH
+  image: 	https://mypal-project.eu/wp-content/uploads/2019/01/Vassilis-Koutkias.png
+  # description: >
+  #   George Gavriilidis was working as a research assistant at eHealt Lab.
+
+- name: Dr George Gavriilidis
+  role: Pharmacologist, Research Associate INAB|CERTH
+  image: 	https://pvclinical-project.eu/img/team/ggavriilidis.jpg
+  orcid: 0000-0003-2575-4354
+  email: ggeorav@certh.gr
+  description: >
+    George Gavriilidis was working as a research assistant at eHealt Lab.

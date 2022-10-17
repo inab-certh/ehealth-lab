@@ -1,0 +1,22 @@
+---
+layout: default
+description: Template for news page
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+  
+  {{ content }}
+  
+  {% for new in site.data.news %}
+    <div class="post">
+        <h2 id="news{{ loop.index0 }}">
+          {{ new.title }}
+        </h2>
+        <h5>{{ new.text }}</h5>
+        <img class="mr-3" src="assets/img/INAB_EHDEN_certification.png">
+  </div>
+  {% endfor %}
+</div>
