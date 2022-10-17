@@ -33,9 +33,6 @@ jobs:
           ruby-version: 2.7
           # runs 'bundle install' and caches installed gems automatically
           bundler-cache: true
-
-      # run RSpec tests
-      - run: bundle exec rspec
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Build with Jekyll
