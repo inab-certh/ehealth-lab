@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -23,10 +23,10 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The eHealth Lab website
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ehealth-lab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ehealth-lab.github.io"  # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  inab-certh
-baseurl: /ehealth-lab
+baseurl: "/ehealth-lab"
 # Build settings
 theme: minima
 plugins:
@@ -59,7 +59,7 @@ exclude:
   - package.json
   - petridish.gemspec
 
-exclude: [vendor] 
+exclude: [vendor]
 
 scholar:
   # style: assets/bibliography/ieee.csl
