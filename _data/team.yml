@@ -1,6 +1,7 @@
 - name: Dr. Pantelis Natsiavas
   role: Researcher, Head of eHealth Lab # Will appear next to name
-  image: https://pvclinical-project.eu/img/team/pnatsiavas.jpg # Can be external link
+  image: pnatsiavas.jpg
+  image-url: https://pvclinical-project.eu/img/team/pnatsiavas.jpg # Can be external link
   orcid: 0000-0002-4061-9815
   email: pnatsiavas@certh.gr
   github: pnatsiavas
@@ -9,14 +10,16 @@
 
 - name: Dr. Christina Karamanidou
   role: Post-doctoral Researcher  # Will appear next to name
-  image: https://mypal-project.eu/wp-content/uploads/2019/02/christina-karamanidou.jpg # Can be external link
+  image: christina-karamanidou.jpg
+  image-url: https://mypal-project.eu/wp-content/uploads/2019/02/christina-karamanidou.jpg # Can be external link
   orcid: 0000-0002-2849-3690
   email: ckaramanidou@certh.gr
-  description: Christina Karamanidou is a post-doctoral researcher at the Institute of Applied Biosciences at CERTH (Center for Research and Technology Hellas), in Thessaloniki, Greece since 2016. Christina studied psychology at the University of Hull, UK then obtained a master’s degree in health psychology from the University of Bath, UK and completed her PhD at the health psychology unit, at King’s College London, UK. Following this, she worked at the Center for Behavioral Medicine at the School of Pharmacy in UCL investigating treatment beliefs in End Stage Renal Disease. Upon her return to Greece in 2008, she has acted as a part-time lecturer at the Department of Social and Educational Policy, the University of Peloponnese and a guest lecturer at the University of Athens and the National School of Public Health in Greece. In 2012, she received funding for post-doctoral research from the General Secretariat for Research and Technology for a project on the knowledge, attitudes and communication preferences of the Greek public with regards to cervical cancer and the HPV vaccine. Currently she leads the Psychology Lab of INAB|CERTH which coordinates projects such as the Chronic Lymphocytic Leukemia Empowerment Program, in collaboration with the European Initiative for CLL (ERIC), the HIV Holistic Assessment Program investigating clinical data in conjunction with psychological characteristics such as illness perceptions and treatment beliefs in Greece and Cyprus. Finally, the MyPal project (Horizon 2020 framework) aiming to improve quality of life and empowerment in care via digital health interventions in collaboration with INAB’s eHealth Lab. 
+  description: Christina Karamanidou is a post-doctoral researcher at the Institute of Applied Biosciences at CERTH (Center for Research and Technology Hellas), in Thessaloniki, Greece since 2016. Christina studied psychology at the University of Hull, UK then obtained a master’s degree in health psychology from the University of Bath, UK and completed her PhD at the health psychology unit, at King’s College London, UK. Following this, she worked at the Center for Behavioral Medicine at the School of Pharmacy in UCL investigating treatment beliefs in End Stage Renal Disease. Upon her return to Greece in 2008, she has acted as a part-time lecturer at the Department of Social and Educational Policy, the University of Peloponnese and a guest lecturer at the University of Athens and the National School of Public Health in Greece. In 2012, she received funding for post-doctoral research from the General Secretariat for Research and Technology for a project on the knowledge, attitudes and communication preferences of the Greek public with regards to cervical cancer and the HPV vaccine. Currently she leads the Psychology Lab of INAB|CERTH which coordinates projects such as the Chronic Lymphocytic Leukemia Empowerment Program, in collaboration with the European Initiative for CLL (ERIC), the HIV Holistic Assessment Program investigating clinical data in conjunction with psychological characteristics such as illness perceptions and treatment beliefs in Greece and Cyprus. Finally, the MyPal project (Horizon 2020 framework) aiming to improve quality of life and empowerment in care via digital health interventions in collaboration with INAB’s eHealth Lab.
 
 - name: Vlasios Dimitriadis
   role: Lead developer # Will appear next to name
-  image: https://pvclinical-project.eu/img/team/bdimitriadis.jpg # Can be external link
+  image: bdimitriadis.jpg
+  image-url: https://pvclinical-project.eu/img/team/bdimitriadis.jpg # Can be external link
   orcid: 0000-0003-2544-8728
   email: blasisd@certh.gr
   github: bdimitriadis
@@ -24,13 +27,15 @@
 
 - name: Dimitris Kaboukos
   role: Project manager # Will appear next to name
-  image: 	https://mypal-project.eu/wp-content/uploads/2020/04/dimitris-kaboukos.jpg # Can be external link
+  image: dimitris-kaboukos.jpg
+  image-url: 	https://mypal-project.eu/wp-content/uploads/2020/04/dimitris-kaboukos.jpg # Can be external link
   orcid: 0000-0003-4404-4462
   email: kaboukosd@certh.gr
 
 - name: Christine Kakalou
   role: PhD Student, Research Associate # Will appear next to name
-  image: https://pvclinical-project.eu/img/team/ckakalou.jpeg # Can be external link
+  image: ckakalou.jpeg
+  image-url: https://pvclinical-project.eu/img/team/ckakalou.jpeg # Can be external link
   orcid: 0000-0001-9272-410X
   email: ckakalou@certh.gr
   github: ckakalou
@@ -39,15 +44,17 @@
 
 - name: Achilleas Chytas
   role: Research Associate # Will appear next to name
-  image: 	https://pvclinical-project.eu/img/team/achytas.png # Can be external link
+  image: achytas.png
+  image-url: 	https://pvclinical-project.eu/img/team/achytas.png # Can be external link
   orcid: 0000-0001-8486-011X
   email: achytas@certh.gr
   github: achillec
   description: Achilleas Chytas is an Engineer / Research Associate at the Institute of Applied Biosciences of Centre for Research and Technology Hellas (INAB|CERTH) in Thessaloniki, Greece. He has received a Diploma of Electrical and Computer Engineering as well as a MSc degree in Medical Informatics, both from the Aristotle University of Thessaloniki (AUTh). Since 2014 as a member of LoMI (Laboratory of Medical Informatics, AUTh), he has been part of many European and national R&D projects on Medical Informatics, related with telemonitoring, biomedical big data analytics, drug safety and pharmacovigilance focusing on signal processing and Knowledge Engineering. He has been collaborating with INAB|CERTH as late as 2015 while since 2020 he has been a member of the eHealth Lab.
-  
+
 - name: Panos Bonotis
   role: PhD student # Will appear next to name
-  image: 	https://mypal-project.eu/wp-content/uploads/panos-bonotis.jpg # Can be external link
+  image: panos-bonotis.jpg
+  image-url: 	https://mypal-project.eu/wp-content/uploads/panos-bonotis.jpg # Can be external link
   orcid: 0000-0002-9317-547X
   email: pbonotis@certh.gr
   github: pbonotis15
@@ -55,11 +62,10 @@
 
 - name: Stella Dimitsaki
   role: Research Associate # Will appear next to name
-  image: 	https://pvclinical-project.eu/img/team/sdimitsaki.png # Can be external link
+  image: sdimitsaki.png
+  image-url: 	https://pvclinical-project.eu/img/team/sdimitsaki.png # Can be external link
   orcid: 0000-0002-6356-9531
   email: sdimitsaki@certh.gr
   github: Dimstella
   twitter: st_dimitsaki
   description: Stella Dimitsaki is a Data Scientist and Research Associate at the Institute of Applied Biosciences, Center for Research and Technology Hellas (INAB|CERTH) in Thessaloniki, Greece since 2020. She holds a BSs in Applied informatics from the University of Macedonia and a MSc in Data Science from International Hellenic University. Stella has been awarded with a PhD fellowship scholarship by the Sorbonne University. She is currently working as a Research Associate at the eHealth Lab, where she is involved in multiple projects. Stella's research interests focus on the application of Explainable Artificial Intelligence (XAI) in biomedical science while she is also interested in the investigation of Ethical machine learning in healthcare.
-  
-

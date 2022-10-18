@@ -15,8 +15,9 @@ description: Template for news page
         <h2 id="news{{ loop.index0 }}">
           {{ new.title }}
         </h2>
-        <h5>{{ new.text }}</h5>
-        <img class="mr-3" src="{{ page.url | relative_url }}assets/img/INAB_EHDEN_certification.png">
+        <img class="mr-3" src="{{ page.url | relative_url }}assets/img/CERTH_EHDEN_certification.png" alt="CERTH certificate">
+        <p>{{ new.text }}</p>
+        <img class="mr-3" src="{{ page.url | relative_url }}assets/img/INAB_EHDEN_SMEs.png" alt="INAB in certified SMEs' list">
   </div>
   {% endfor %}
 </div>
