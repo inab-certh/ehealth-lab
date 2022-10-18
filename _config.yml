@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://ehealth-lab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  inab-certh
-baseurl: /inab-certh
+baseurl: /ehealth-lab
 # Build settings
 theme: minima
 plugins:
